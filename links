@@ -20,6 +20,9 @@
 ~/.bash/functions, /bash/functions
 ~/.bash/scripts, /bash/scripts
 
+# vim
+~/.vimrc, /vim/.vimrc
+
 # git
 ~/.git/templates, /git/templates
 
