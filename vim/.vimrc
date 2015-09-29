@@ -10,6 +10,5 @@ map <ScrollWheelDown> <C-E>
 syntax on
 hi Visual term=reverse cterm=reverse guibg=Grey
 nnoremap <cr> :noh<CR><CR>:<backspace>
-execute pathogen#infect()
 :highlight LineNr ctermfg=grey
 :highlight Statement ctermfg=yellow
